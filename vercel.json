@@ -1,0 +1,9 @@
+version	2
+builds	
+0	
+src	"index.html"
+use	"@vercel/static"
+routes	
+0	
+src	"/(.*)"
+dest	"/index.html"
