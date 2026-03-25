@@ -26,3 +26,33 @@ https://ipl-store-rahul.vercel.app
 ---
 
 ## 📂 Project Structure
+ipl-store-rahul/
+│── index.html
+│── README.md
+
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/rganju1/ipl-store-rahul.git
+Open the folder:
+cd ipl-store-rahul
+Open in browser:
+open index.html
+🌐 Deployment
+
+Deployed using Vercel.
+
+Steps:
+
+Push code to GitHub
+Import repo into Vercel
+Deploy instantly
+🔮 Future Improvements
+Add all IPL teams
+Show jersey images
+Add cart and checkout
+Payment integration
