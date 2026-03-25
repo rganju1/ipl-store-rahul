@@ -4,6 +4,8 @@ A simple interactive web app to select IPL teams, choose players, and customize 
 
 ## 🚀 Live Demo
 https://ipl-store-rahul.vercel.app
+file:///Users/rganju/Downloads/index(2).html
+
 
 ---
 
